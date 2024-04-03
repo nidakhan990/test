@@ -54,4 +54,12 @@ The aim of the web servers is to deliver websites over the internet. It behaves 
 <tab><tab><pre><code>sudo systemctl enable httpd
 sudo systemctl start httpd</code></pre>
 
+##  
+<tab><tab><pre><code>sudo systemctl status httpd</code></pre>
+
+- Type **http://3.144.137.105:80** on your browser and you can see this page.
+  
+**OUTPUT**:
+
+![Screenshot from 2024-04-03 21-59-05](https://github.com/nidakhan990/test/assets/164150254/b5c9cb24-b6dd-4236-8c1b-e5604586955d)
 
