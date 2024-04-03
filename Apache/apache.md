@@ -65,5 +65,5 @@ sudo systemctl start httpd</code></pre>
 
 
 
-### To configure your own website you can add index.html file in ***var/www/html*** directory.thyen refresh the page
+### To configure your own website you can add index.html file in  "***var/www/html***" directory.thyen refresh the page
 
