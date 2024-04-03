@@ -63,3 +63,7 @@ sudo systemctl start httpd</code></pre>
 
 ![Screenshot from 2024-04-03 21-59-05](https://github.com/nidakhan990/test/assets/164150254/b5c9cb24-b6dd-4236-8c1b-e5604586955d)
 
+
+
+### To configure your own website you can add index.html file in ***var/www/html*** directory.thyen refresh the page
+
