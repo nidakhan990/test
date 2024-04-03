@@ -38,5 +38,20 @@ The aim of the web servers is to deliver websites over the internet. It behaves 
 -  Apache is software that is highly customizable. It contains the module-based structure.
 - Various modules permit server administrators for turning additional functionality off and on.
 - Apache includes modules for caching, security, password authentication, URL rewriting, and other purposes.
-- Also, we can set up our own configuration of the server with the help of a file known as .htaccess. It is a supported configuration file of Apache.
+- Also, we can set up our own configuration of the server with the help of a file known as **.htaccess**. It is a supported configuration file of Apache.
+
+
+# Install Steps
+
+##  
+<tab><tab><pre><code> sudo dnf update -y </code></pre>
+
+
+##  
+<tab><tab><pre><code>sudo dnf install httpd -y</code></pre>
+
+##  
+<tab><tab><pre><code>sudo systemctl enable httpd
+sudo systemctl start httpd</code></pre>
+
 
