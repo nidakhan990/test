@@ -1,0 +1,25 @@
+# Example Credentials File
+
+# Database Credentials
+DB_HOST=localhost
+DB_USERNAME=myuser
+DB_PASSWORD=mypassword123
+DB_DATABASE=mydatabase
+
+# API Credentials
+API_KEY=abc123xyz
+API_SECRET=secretpassphrase
+
+# FTP Credentials
+FTP_HOST=ftp.example.com
+FTP_USERNAME=ftpuser
+FTP_PASSWORD=ftpsecret
+
+# Email Credentials
+EMAIL_USERNAME=email@example.com
+EMAIL_PASSWORD=emailpass
+
+# Server SSH Credentials
+SSH_HOST=example.com
+SSH_USERNAME=sshuser
+SSH_PASSWORD=sshpass
