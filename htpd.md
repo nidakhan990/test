@@ -1,3 +1,15 @@
+## conf file for domain..com.conf
+
+<br> <tab><tab><pre><code><VirtualHost *:80>
+    ServerAdmin admin@example.com
+    ServerName domain.com
+    ServerAlias www.domain.com
+    DocumentRoot /var/www/domain.com/public_html
+    ErrorLog /var/log/httpd/domain.com_error.log
+    CustomLog /var/log/httpd/domain.com_access.log combined
+</VirtualHost>
+</pre></code><br>
+
 ![Screenshot from 2024-04-23 02-32-45](https://github.com/nidakhan990/test/assets/164150254/9f6e9bff-2f61-4565-9832-eb208ae6068b)
 
 
